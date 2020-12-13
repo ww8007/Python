@@ -1,0 +1,4 @@
+1.hi my name is
+2.jang
+3.good
+4.bye
